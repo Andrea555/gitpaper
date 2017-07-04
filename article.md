@@ -1,11 +1,11 @@
 # Git Article
 
-##Introduction
+# Introduction
 
-##Material and Methods
+# Material and Methods
 
-##Results
+# Results
 
-##Discussion
+# Discussion
 
-##Conclusion
+# Conclusion
